@@ -1,0 +1,27 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+
+.cabecalho{
+background-color: rgba(8, 43, 107, 0.959);
+color: aliceblue;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 20px 0;
+}
+.img-cabecalho{
+
+width: 10%;
+
+}
+    .cabecalho-lista-iten{
+display: inline-block;
+margin: 0 10px;
+font-size: 25px;
+    }
+
+
