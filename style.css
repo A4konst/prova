@@ -6,7 +6,7 @@ padding: 0;
 
 
 .cabecalho{
-background-color: rgba(8, 43, 107, 0.959);
+background-color:#021196;
 color: aliceblue;
 display: flex;
 justify-content: space-around;
@@ -24,4 +24,25 @@ margin: 0 10px;
 font-size: 25px;
     }
 
+.IA-img{
+    width: 10%;
+}
+ 
+.IA{
+background-image: -moz-linear-gradient(#021196,#440021);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
 
+.AI-div{
+
+width: 20%;
+
+}
+.IA-titulo{ 
+padding: 24px 0;
+
+}
