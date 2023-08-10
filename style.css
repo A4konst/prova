@@ -24,8 +24,9 @@ margin: 0 10px;
 font-size: 25px;
     }
 
-.IA-img{
-    width: 10%;
+.IA-img1{
+    width: 25%;
+    padding: 0 20px;
 }
  
 .IA{
@@ -46,3 +47,26 @@ width: 20%;
 padding: 24px 0;
 
 }
+.IA-titulo2{
+
+padding: 50px 0; 
+
+}
+.IA-img2{
+
+   width: 25%; 
+   padding: 20px 0;
+}
+.ia-imagem-div{
+padding: 15px 0;
+justify-items: center
+} 
+.IA-img3{
+width: 30%;
+
+}
+.IA-img4{
+
+    width: 30%;
+}
+
